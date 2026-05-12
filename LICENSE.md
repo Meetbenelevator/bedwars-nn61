@@ -1,4 +1,4 @@
-#  
+#  bedwars no-ban Scripts offers the most advanced bedwars Script, with invisibility and private server access. Perfect for dominating any match.
 
 
 
